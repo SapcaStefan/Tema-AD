@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1717099391 source:c:\users\adrian\desktop\scoala\facultate\teme\c codeblocks\sapcaromanstefan_ad\func.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"func.h"
+
+1717099398 c:\users\adrian\desktop\scoala\facultate\teme\c codeblocks\sapcaromanstefan_ad\func.h
+
+1717099413 source:c:\users\adrian\desktop\scoala\facultate\teme\c codeblocks\sapcaromanstefan_ad\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"func.h"
+
